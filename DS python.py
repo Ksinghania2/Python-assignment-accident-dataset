@@ -9,7 +9,7 @@ import seaborn as sns
 from scipy import stats
 
 # Load the dataset
-# Make sure to replace 'path_to_dataset.csv' with the actual path to your dataset
+
 df = pd.read_csv('path_to_dataset.csv')
 
 # Display the first few rows of the dataset
